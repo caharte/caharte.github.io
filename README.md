@@ -12,9 +12,9 @@ custom_mark13
 |Document|   |!magic!|    |       |
 |     {d}|   |   {d} |    |       |
 +---+----+   +-------+    +-------+
-	:                         ^
-	|       Lots of work      |
-	+-------------------------+
+    :                         ^
+    |       Lots of work      |
+    +-------------------------+
 @endditaa
 custom_mark13
 </details>
