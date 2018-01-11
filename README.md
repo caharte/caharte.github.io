@@ -3,8 +3,6 @@
 
 ![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/ditaatest.txt&idx=0)
 
-![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt)
-
 ![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1)
 <details>
 @startditaa
@@ -23,7 +21,7 @@
 
 
 
-![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=0)
+![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1&t=1)
 <details>
 @startditaa
 +--------+   +-------+    +-------+
@@ -33,7 +31,7 @@
 |     {d}|   |   {d} |    |       |
 +---+----+   +-------+    +-------+
     :                         ^
-    |       Other diagram     |
+    |       Others diagram    |
     +-------------------------+
 @endditaa
 </details>
