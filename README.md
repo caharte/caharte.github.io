@@ -21,11 +21,11 @@
 
 
 
-![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1&tttt=1)
+![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1&ttt=1)
 <details>
 @startditaa
 +--------+   +-------+    +-------+
-|        +---+ ditaa +--> |       |
+|        +---+ ditaa +--> |DDDDDDD|
 |  Text  |   +-------+    |diagram|
 |Document|   |!magic!|    |       |
 |     {d}|   |   {d} |    |       |
