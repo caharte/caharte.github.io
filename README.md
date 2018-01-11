@@ -1,10 +1,11 @@
 # caharte.github.io
 
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2Fcaharte%2Fcaharte.github.io%2Fmaster%2FREADME.md?1)
-<details> 
-<summary></summary>
-custom_mark10
+![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/ditaatest.txt&idx=0)
+
+![alternative text](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt)
+
+![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1)
 @startditaa
 +--------+   +-------+    +-------+
 |        +---+ ditaa +--> |       |
@@ -16,6 +17,20 @@ custom_mark10
     |       Lots of work      |
     +-------------------------+
 @endditaa
-custom_mark10
-</details>
 
+# test
+
+
+
+![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=0)
+@startditaa
++--------+   +-------+    +-------+
+|        +---+ ditaa +--> |       |
+|  Text  |   +-------+    |diagram|
+|Document|   |!magic!|    |       |
+|     {d}|   |   {d} |    |       |
++---+----+   +-------+    +-------+
+    :                         ^
+    |       Other diagram     |
+    +-------------------------+
+@endditaa
