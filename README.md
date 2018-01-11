@@ -24,7 +24,7 @@
 <details>
 @startditaa
 +--------+   +-------+    +-------+
-|        +---+ ditaa +--> |DD   DD|
+|        +---+ ditaa +--> |DDsssDD|
 |  Text  |   +-------+    |Diagram|
 |Document|   |!magic!|    |       |
 |     {d}|   |   {d} |    |       |
