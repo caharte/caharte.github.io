@@ -20,13 +20,12 @@
 # test
 
 
-
-![Alt text](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1&ttt=1)
+![Alt text](http://www.plantuml.com/plantuml/proxy?tft=04&src=https://raw.githubusercontent.com/caharte/caharte.github.io/master/README.md&idx=1)
 <details>
 @startditaa
 +--------+   +-------+    +-------+
-|        +---+ ditaa +--> |DDDDDDD|
-|  Text  |   +-------+    |diagram|
+|        +---+ ditaa +--> |DD   DD|
+|  Text  |   +-------+    |Diagram|
 |Document|   |!magic!|    |       |
 |     {d}|   |   {d} |    |       |
 +---+----+   +-------+    +-------+
