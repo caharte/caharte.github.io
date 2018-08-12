@@ -7,5 +7,6 @@
       method="POST">
     <input type="text" name="name">
     <input type="email" name="_replyto">
+    <textarea name="message" placeholder="Your message"></textarea>
     <input type="submit" value="Send">
 </form> 
