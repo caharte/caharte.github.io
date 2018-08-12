@@ -4,9 +4,9 @@
 
 ### subsubheading
 
-'''
+```
 some code
-'''
+```
 
 * this is a list
 * bullets
