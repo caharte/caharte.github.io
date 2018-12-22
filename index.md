@@ -16,13 +16,7 @@ some code
 
 
 
-
-
-
-
-
-
-
+![test image](/images/platter_sensor.jpeg){:class="img-responsive"}
 
 
 
