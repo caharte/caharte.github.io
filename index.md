@@ -11,6 +11,8 @@ some code
 * this is a list
 * bullets
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Back to c8051 development after a while away. Props to <a href="https://twitter.com/siliconlabs?ref_src=twsrc%5Etfw">@siliconlabs</a>, Simplicity Studio really is very easy to set up and get going on mac :)</p>&mdash; Chris Harte (@MelodientUK) <a href="https://twitter.com/MelodientUK/status/838715871400984576?ref_src=twsrc%5Etfw">March 6, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
