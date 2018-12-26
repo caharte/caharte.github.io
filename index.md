@@ -8,9 +8,9 @@
 some code
 ```
 
-** italic **
+**bold**
 
-* bold *
+*italic*
 
 
 * this is a list
