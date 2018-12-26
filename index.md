@@ -8,6 +8,11 @@
 some code
 ```
 
+** italic **
+
+* bold *
+
+
 * this is a list
 * bullets
 
